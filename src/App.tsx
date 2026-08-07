@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import { demoRelease, partnerTools } from './data/demoTrain'
 import type { PartnerToolId, PillarId, RiskLevel, TicketKind } from './types/train'
 import './App.css'
@@ -323,6 +324,7 @@ function App() {
           </div>
         </footer>
       </div>
+      <Analytics />
     </div>
   )
 }
