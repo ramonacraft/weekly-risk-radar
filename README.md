@@ -1,5 +1,7 @@
 # 📡 Weekly Risk Radar
 
+**Live demo:** https://weekly-risk-radar.vercel.app/
+
 **The conductor for digital media weekly app releases.** One fixed version pulls tickets from many pillars across **six app platforms**. This board shows collision heat, an aimed **P0–P2 (manual)** slice, and a stakeholder go pack — so product can own the ship decision with eyes open.
 
 Demo board for a fictional National News Apps release (`v2026.32`). Example data used here — real solution plan shape. No live Jira, production data, or real network branding.
