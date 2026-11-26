@@ -25,7 +25,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.4",
     "oxlint": "^1.75.0",
-    "typescript": "~6.0.2",
+    "typescript": "~7.0.2",
     "vite": "8.3.8"
   },
   "description": "Weekly train risk radar for digital media releases \u2014 fixed-version blast radius, stakeholder go pack, and the partner tool map."
